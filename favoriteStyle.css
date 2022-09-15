@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.navbar-brand {
+  color: white;
+}
+
+.add-color {
+  background-color: #dc3545;
+  border: 1px solid #dc3545 ;
+  color: white
+}
+
+.btn-show-info {
+  background-color: #A6978A; 
+  color: white;"
+}

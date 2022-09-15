@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #403F3D;
+}
+
+.navbar {
+  background-color: #A6978A
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.add-color {
+  background-color: #dc3545;
+  border: 1px solid #dc3545 ;
+  color: white
+}
+
+#search-submit-button {
+  background-color: #A6978A; 
+  color: white;"
+}
+
+.btn-show-info {
+  background-color: #A6978A; 
+  color: white;"
+}
+
+.page-link {
+  background-color: #A6978A; 
+  color: white;
+}
